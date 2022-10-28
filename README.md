@@ -1,31 +1,28 @@
-# README
+# Mesi's Blog App - with Rails
+The Blog app is a classic example of a blog. It shows the list of posts and empower readers to interact with them by adding comments and liking posts.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
+- Ruby
+- Rails
+- Rubocop, Rspecs, Style Lint
 
-Things you may want to cover:
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+``bash
+$ clone repo |
+$ cd into repo |
+$ bundle install |
+$ npm install |
+``
 
-* Ruby version
+### Usage
+rails s
+Run tests
+Deployment
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-# Mesi's Blog App
-
-This is a blog app where user can add new posts, comment and like them.
+## Prerequisites
+- Ruby and Rails
+- NodeJs
 
 ## Author
 
